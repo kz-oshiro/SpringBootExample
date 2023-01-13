@@ -3,4 +3,4 @@
 .classpath
 /.settings/
 /bin/
-.ds_store
+.DS_Store
